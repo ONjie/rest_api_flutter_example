@@ -1,6 +1,6 @@
 # rest_api_flutter_example
 
-## Working with REST APIs - Flutter:
+## Working with REST APIs using BLoC - Flutter:
 
 ### How do APIs Work?
 A user application can make GET, POST, PUT, or DELETE HTTP requests to a database. 
