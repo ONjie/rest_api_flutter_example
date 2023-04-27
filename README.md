@@ -1,14 +1,14 @@
-# rest_api_flutter_example1
+# rest_api_flutter_example
 
-Working with REST APIs - Flutter
+##Working with REST APIs - Flutter
 
-## How do APIs Work?
+### How do APIs Work?
 A user application can make GET, POST, PUT, or DELETE HTTP requests to a database. 
 In return, the database sends us data, results, or responses in the form of JSON, 
 HTML, or XML (with the JSON format being the most widely used). 
 We then parse the JSON into a proper model class and use it in our app
 
-## Integrating an API into your Flutter app
+### Integrating an API into your Flutter app
 
 There are a few steps that you can follow to easily integrate an API into your Flutter app:
 
